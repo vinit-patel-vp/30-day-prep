@@ -1,0 +1,87 @@
+<!-- 5. Media and Scripting
+<img>: Embeds images into the page
+.
+<video> and <audio>: Play media natively without extra software
+.
+<script>: The element used to embed or link your JavaScript code to the HTML document
+.
+. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header><!--<header> and <footer>: Define the top and bottom sections of a page or article-->
+
+       <nav> <!--<nav>: Specifically for navigation links -->
+        <a href="about.html">About</a>
+        <hr>
+        <a href="https://www.youtube.com/watch?v=Yd7vDterctQ&list=RDYd7vDterctQ&start_radio=1">You tube</a>
+        </nav>
+
+    </header>
+
+
+    <main>
+        <h1>Headings -> h1 to h6</h1>
+
+        <p>paragraph element</p>
+
+    <section class="list" id="section_list_1">
+        <h5>List of Subjects(Unordered list)</h5>
+        <ul>
+        <li>Calculus</li>
+        <li>Statistics</li>
+        <li>Linear Algebra</li>
+        <li>You can change the stlye of the bullets with css</li>
+        </ul>
+        </section>
+
+        <section class="list" id="section_list_2">
+        <h5>List of Subjects (Ordered list)</h5>
+        <ol>
+        <li>Calculus</li>
+        <li>Statistics</li>
+        <li>Linear Algebra</li>
+        <li>You can change the stlye of the numbering with css</li>
+        </ol>
+    </section>
+
+    <div>div is a block element (takes up the full width other block starts new line): </div> <div>true</div>
+    <span>span is an inline element(only takes up the width of contents other block starts right after the span block ends)- </span> <span>true</span>
+    <hr>
+
+    <img src="img1.jpg" alt="batman image"width="100px"> <span>image tag is also inline tag</span>
+    <hr>
+    <img src="./image/goku.jpg" alt="goku image" width="100px">
+
+    <iframe width="951" height="535" src="https://www.youtube.com/embed/-UiuL2XJCsE?list=RDYd7vDterctQ" title="Michael FK - A Distant Glow (Extended Mix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <form action="#">
+            <label for="nameid">Enter your name: </label>
+            <input type="text" name="nameInput" id="nameid"> <br>
+
+            <label for="pwdid">Enter your password: </label>
+            <input type="password" name="passwordInput" id="pwdid"><br>
+            
+            <label for="radio1">Adult</label>
+            <input type="radio" name="age" id="radio1">
+            <label for="radio2">Teen</label>
+            <input type="radio" name="age" id="radio2">
+
+            <input type="button" value="Submit">
+            
+        </form>
+
+    </main>  <!--<main>: Identifies the primary content of the document -->
+
+
+    <footer><!--<header> and <footer>: Define the top and bottom sections of a page or article-->
+
+    </footer>
+</body>
+</html>
