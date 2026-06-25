@@ -14,7 +14,7 @@ Daily commits tracking my progress in Maths, Python and Web Development.
 ## Daily Progress
 | Day | Date | Math | Python | Web | Done |
 |-----|------|------|--------|-----|------|
-| Day 1 | 25 June | Essence of Calculus | Basics Revision | HTML Revision | ⬜ |
+| Day 1 | 25 June | Essence of Calculus | Basics Revision | HTML Revision | ✅ |
 | Day 2 | 26 June | Derivatives | Loops Revision | HTML Forms | ⬜ |
 | Day 3 | 27 June | Chain Rule | Functions Revision | CSS Basics | ⬜ |
 
