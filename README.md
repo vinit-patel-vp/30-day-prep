@@ -15,8 +15,8 @@ Daily commits tracking my progress in Maths, Python and Web Development.
 | Day | Date | Math | Python | Web | Done |
 |-----|------|------|--------|-----|------|
 | Day 1 | 25 June | Essence of Calculus | Basics Revision | HTML Revision | ✅ |
-| Day 2 | 26 June | Derivatives | Loops Revision | HTML Forms | ⬜ |
-| Day 3 | 27 June | Chain Rule | Functions Revision | CSS Basics | ⬜ |
+| Day 2 | 26 June | Paradox of derivatives (only half) | Loops Revision | CSS Basics + Box model | ✅ |
+| Day 3 | 27 June | paradox of derivatives (other half) + derivatives with geometry | Functions Revision |  | ✅ |
 
 ## Tools
 - 3Blue1Brown (Calculus + Linear Algebra)
